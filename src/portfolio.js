@@ -188,7 +188,7 @@ const workExperiences = {
       role: "Lead AI Engineer",
       company: "Coence",
       companylogo: require("./assets/images/logo.jpeg"),
-      date: "March 2021 – August 2022",
+      date: "December 2020 – August 2022",
       descBullets: [
         "Pioneered a comprehensive Resume Extractor and Creator system that matched with 90% keywords, leveraging advanced parsing techniques to distill and tailor resume content for specific job descriptions.",
         "Designed and implemented a bespoke recommendation engine to dynamically match users with events, competitions, and hackathons, enhancing user engagement and exposure."
@@ -198,7 +198,7 @@ const workExperiences = {
       role: "Offshore Data Science Specialist",
       company: "Mastech Infotrellis",
       companylogo: require("./assets/images/mastech.jpg"),
-      date: "Jan 2020 – Feb 2021",
+      date: "Jan 2020 – Aug 2020",
       descBullets: [
         "Crafted an OCR-based data extraction pipeline with accuracy of 87% from 79%, streamlining the processing of proprietary company data.",
         "Developed a Novel Knowledge Graph-based decision support system that with 10% increase in efficiency of querying company data."
